@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Workflow Runtime Engine" source="com.glideapp.workflow">b77bed324f233100b05a5fde0310c743</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>m0366890</sys_created_by>
+        <sys_created_on>2020-05-01 14:33:02</sys_created_on>
+        <sys_id>50023981dbe05050063971f2399619e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Instructional Support" source="x_mcphs_instsup">7770bd01dbe05050063971f2399619ad</sys_package>
+        <sys_updated_by>m0366890</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:33:02</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

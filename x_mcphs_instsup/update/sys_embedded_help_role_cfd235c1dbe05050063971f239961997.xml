@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_instructionalsupport_scriptedit" name="sn_dd_instructionalsupport_scriptedit">0fd235c1dbe05050063971f239961995</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>m0366890</sys_created_by>
+        <sys_created_on>2020-05-01 14:36:46</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>cfd235c1dbe05050063971f239961997</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0fd235c1dbe05050063971f239961995</sys_name>
+        <sys_package display_value="Instructional Support" source="x_mcphs_instsup">7770bd01dbe05050063971f2399619ad</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Instructional Support">7770bd01dbe05050063971f2399619ad</sys_scope>
+        <sys_update_name>sys_embedded_help_role_cfd235c1dbe05050063971f239961997</sys_update_name>
+        <sys_updated_by>m0366890</sys_updated_by>
+        <sys_updated_on>2020-05-01 14:36:46</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
